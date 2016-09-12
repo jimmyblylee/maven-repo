@@ -3,10 +3,10 @@
   <groupId>com.lee.tools</groupId>
   <artifactId>hibernate-unproxy</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.0.RELEASE</release>
     <versions>
-      <version>1.0.0</version>
+      <version>1.0.0.RELEASE</version>
     </versions>
-    <lastUpdated>20160912145913</lastUpdated>
+    <lastUpdated>20160912151400</lastUpdated>
   </versioning>
 </metadata>
